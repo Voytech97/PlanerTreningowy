@@ -1,3 +1,5 @@
+Funkcjonalności w projekcie:
+
 Kalendarz
 Kalkulator bmi
 Zapotrzebowanie kaloryczne
@@ -7,3 +9,5 @@ Baza ćwiczeń
 Zdjęcia
 Opisy ćwiczeń
 Baza danych kalendarza (godzinowo)
+
+Wygląd interfejsu będzie projektowany za pomocą figmy
