@@ -1,0 +1,2 @@
+# PlanerTreningowy
+PlanerTreningowy
