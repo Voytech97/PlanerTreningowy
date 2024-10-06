@@ -1,0 +1,9 @@
+Kalendarz
+Kalkulator bmi
+Zapotrzebowanie kaloryczne
+Opis rozgrzewek
+Plany treningowe
+Baza ćwiczeń
+Zdjęcia
+Opisy ćwiczeń
+Baza danych kalendarza (godzinowo)
