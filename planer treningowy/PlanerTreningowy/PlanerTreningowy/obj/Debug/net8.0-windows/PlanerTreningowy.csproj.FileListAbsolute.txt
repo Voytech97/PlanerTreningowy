@@ -1,0 +1,17 @@
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\bin\Debug\net8.0-windows\PlanerTreningowy.exe
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\bin\Debug\net8.0-windows\PlanerTreningowy.deps.json
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\bin\Debug\net8.0-windows\PlanerTreningowy.runtimeconfig.json
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\bin\Debug\net8.0-windows\PlanerTreningowy.dll
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\bin\Debug\net8.0-windows\PlanerTreningowy.pdb
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.Form1.resources
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.sourcelink.json
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.dll
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\refint\PlanerTreningowy.dll
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.pdb
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\PlanerTreningowy.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\PlanerTreningowy\planer treningowy\PlanerTreningowy\PlanerTreningowy\obj\Debug\net8.0-windows\ref\PlanerTreningowy.dll

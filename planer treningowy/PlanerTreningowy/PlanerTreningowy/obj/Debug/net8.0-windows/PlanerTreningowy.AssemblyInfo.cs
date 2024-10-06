@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanerTreningowy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3ef00563ff229c625376649f24f14f50b028c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanerTreningowy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanerTreningowy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
