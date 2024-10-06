@@ -14,4 +14,4 @@ Połączenie ze zdalnym repozytorium - regularna praca na GitHub potwierdzona co
 Dokumentacja techniczna - zgodnie z dobrymi praktykami, w postaci README na GitHub, podstawowe elementy README: temat i cel biznesowy aplikacji, użyte technologie, lista funkcjonalności (wraz z krótkim opisem i screenami), instalacja i uruchomienie, opis architektury (ze szczególnym uwzględnieniem elementów paradygmatu obiektowego), diagram klas UML,
 
 Źródła grafik:
-https://icon-icons.com/icon/exercise-weight-gym/208720
+https://icon-icons.com/icon/weight-lifting/144037
